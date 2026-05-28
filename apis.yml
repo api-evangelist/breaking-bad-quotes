@@ -1,0 +1,32 @@
+aid: breaking-bad-quotes
+name: Breaking Bad Quotes
+description: "Some Breaking Bad quotes"
+url: https://github.com/shevabam/breaking-bad-quotes
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Video"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Video
+  - Public APIs
+apis:
+  - name: Breaking Bad Quotes
+    description: "Some Breaking Bad quotes"
+    humanURL: https://github.com/shevabam/breaking-bad-quotes
+    baseURL: https://github.com/shevabam/breaking-bad-quotes
+    tags:
+      - Video
+    properties:
+      - type: Documentation
+        url: https://github.com/shevabam/breaking-bad-quotes
+common:
+  - type: Website
+    url: https://github.com/shevabam/breaking-bad-quotes
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
