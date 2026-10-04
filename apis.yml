@@ -39,7 +39,6 @@ apis:
   - name: Breaking Bad Quotes
     description: "Some Breaking Bad quotes"
     humanURL: https://github.com/shevabam/breaking-bad-quotes
-    baseURL: https://github.com/shevabam/breaking-bad-quotes
     tags:
       - Video
     properties:
